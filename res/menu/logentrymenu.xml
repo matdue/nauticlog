@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:icon="@android:drawable/ic_menu_save" android:title="Exportieren" android:id="@+id/opt_export"></item>
+<item android:icon="@android:drawable/ic_menu_close_clear_cancel" android:title="Einträge löschen" android:id="@+id/opt_clear"></item>
+</menu>
